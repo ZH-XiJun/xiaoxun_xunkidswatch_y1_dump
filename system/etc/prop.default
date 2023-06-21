@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Jul 2 19:22:02 CST 2020
+ro.bootimage.build.date.utc=1593688922
+ro.bootimage.build.fingerprint=Xiaoxun/XunKidsWatch_Y1/XunKidsWatch_Y1:8.1.0/O11019/1593689121:user/dev-keys
+persist.sys.usb.config=none
